@@ -1,10 +1,19 @@
-body {
-  background-color: #ffe6f0; 
-  font-family: Arial, sans-serif;
-  color: #333;
-  padding: 20px;
+body.estilo-alternativo {
+  background-color: #1e1e1e;
+  color: #f1f1f1;
 }
 
+body.estilo-alternativo input,
+body.estilo-alternativo button {
+  background-color: #333;
+  color: #fff;
+  border-color: #555;
+}
+
+body.estilo-alternativo .formulario {
+  background-color: #2a2a2a;
+  border-color: #444;
+}
 h2 {
   color: #cc3366; 
   text-align: center;
