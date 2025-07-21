@@ -1,11 +1,11 @@
 body.estilo-alternativo {
-  background-color: #2a001f; /* rosa escuro profundo */
-  color: #ffe6f0;            /* rosa claro no texto */
+  background-color: #2a001f; 
+  color: #ffe6f0;            
 }
 
 body.estilo-alternativo input,
 body.estilo-alternativo button {
-  background-color: #660033; /* vinho rosado escuro */
+  background-color: #660033; 
   color: #fff0f5;
   border: 1px solid #aa3377;
 }
@@ -63,7 +63,7 @@ button {
 }
 
 button:hover {
-  background-color: #e60073;
+  background-color: #660033;
 }
 
 table {
